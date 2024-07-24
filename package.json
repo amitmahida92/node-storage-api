@@ -1,0 +1,41 @@
+{
+  "name": "node-storage-api",
+  "version": "1.0.0",
+  "description": "API that demonstrates how to handle files in node.js with different approaches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitmahida92/node-storage-api.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Storage",
+    "storage",
+    "api",
+    "storage-api",
+    "node-storage-api",
+    "file-upload",
+    "files",
+    "upload",
+    "file",
+    "files",
+    "handle",
+    "files",
+    "with",
+    "node.js"
+  ],
+  "author": "Amit M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitmahida92/node-storage-api/issues"
+  },
+  "homepage": "https://github.com/amitmahida92/node-storage-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
