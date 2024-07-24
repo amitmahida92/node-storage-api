@@ -20,7 +20,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/server-multer.js"
+      "program": "${workspaceFolder}/server-simple-multer.js"
     }
   ]
 }
